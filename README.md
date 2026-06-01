@@ -3,9 +3,9 @@
 Projet Python 2025-2026
 
 ## Binome
-- Etudiant 1 : [Ton nom]
+- Etudiant 1 : Rayane
 - Etudiant 2 : Yassine
-- Groupe : [Votre groupe]
+- Groupe : G1
 
 ## Lancement
 ```
